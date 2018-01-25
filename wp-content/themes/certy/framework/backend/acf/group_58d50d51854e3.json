@@ -1,0 +1,100 @@
+{
+    "key": "group_58d50d51854e3",
+    "title": "References Options",
+    "fields": [
+        {
+            "key": "field_58d5179ddc844",
+            "label": "Featured Image Link",
+            "name": "featured_image_link",
+            "type": "text",
+            "instructions": "Put the link for featured image",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_58d517c3cd1db",
+            "label": "Title Link",
+            "name": "title_link",
+            "type": "text",
+            "instructions": "Put the link for title",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_58d50d5f5fb20",
+            "label": "Secondary Title",
+            "name": "secondary_title",
+            "type": "text",
+            "instructions": "Type the secondary title",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_58d5174ffc744",
+            "label": "Secondary Title Link",
+            "name": "secondary_title_link",
+            "type": "text",
+            "instructions": "Put the link for secondary title",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "certy_references"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "acf_after_title",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1490360290
+}

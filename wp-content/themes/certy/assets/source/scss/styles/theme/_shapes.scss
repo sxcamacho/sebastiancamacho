@@ -1,0 +1,19 @@
+/**
+ * Bg Shapes
+ */
+
+#crt-bg-shape-1,
+#crt-bg-shape-2 {
+  top: 0;
+  position: fixed;
+  z-index: -1;
+}
+
+#crt-bg-shape-1 {
+  left: 0;
+}
+
+#crt-bg-shape-2 {
+  top: -100px;
+  right: -100px;
+}
